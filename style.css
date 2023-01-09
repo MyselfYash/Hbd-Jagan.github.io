@@ -49,26 +49,26 @@ body,html{
 @keyframes change{
     0%
     {
-        background-image: url(images/img1.jpg);
+        background-image: url(img1.jpg);
     }
     20%
     {
-        background-image: url(images/img2.jpg);
+        background-image: url(img2.jpg);
     }
     40%
     {
-        background-image: url(images/image.jpg);
+        background-image: url(image.jpg);
     }
     60%
     {
-        background-image: url(images/img4.jpg);
+        background-image: url(img4.jpg);
     }
     80%
     {
-        background-image: url(images/img5.jpg);
+        background-image: url(img5.jpg);
     }
     100%
     {
-        background-image: url(images/img1.jpg);
+        background-image: url(img1.jpg);
     }
 }
